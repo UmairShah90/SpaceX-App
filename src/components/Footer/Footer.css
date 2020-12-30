@@ -1,0 +1,24 @@
+.footer {
+    height: 60px;
+    width: 100%;
+    text-align: center;
+    background-color: lightblue;
+    opacity: 0.5;
+    
+    
+}
+
+.heading {
+    padding: 15px;
+    margin: 0;
+    color: black;
+    font-size: 20px;
+    font-weight:400;
+}
+.heading > b {
+    font-weight: 800;
+    font-size: 25px;
+}
+.heading:hover {
+    color: blue;
+}
